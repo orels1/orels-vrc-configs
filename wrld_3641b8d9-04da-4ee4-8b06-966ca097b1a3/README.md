@@ -11,6 +11,13 @@
       "Gimmick/Audio Reverb Zone": [], // Array of names to default-disable audio reverb zones for
     } // Object of path-name[] to disable
   }
+  "spawnAdjustments": { // Lists options that adjust the spawn parametesr
+    "stairsTop": [], // Array of names to spawn at the top of the stairs
+    "tv": [], // Array of names to spawn in front of the TV
+    "bed": [], // Array of names to spawn near the bed
+    "chillArea": [], // Array of names to spawn at the chill area (left of the TV)
+    "spawnMirror": [] // Array of names to enable a spawn mirror for. It auto-disables when u move away from it
+  }
 }
 ```
 

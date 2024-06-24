@@ -13,5 +13,21 @@
       "pema99",
       "cutesthypnotist"
     ]
+  },
+  "spawnAdjustments": {
+    "stairsTop": [
+      "pema99",
+      "d4rkpl4y3r",
+      "cutesthypnotist",
+      "Raz"
+    ],
+    "tv": [
+      "orels1"
+    ],
+    "bed": [],
+    "chillArea": [],
+    "spawnMirror": [
+      "Raz"
+    ]
   }
 }
