@@ -21,13 +21,15 @@
       "cutesthypnotist",
       "Raz"
     ],
-    "tv": [
-      "orels1"
-    ],
+    "tv": [],
     "bed": [],
     "chillArea": [],
+    "bigMirror": [
+      "orels1"
+    ],
     "spawnMirror": [
-      "Raz"
+      "Raz",
+      "orels1"
     ]
   }
 }
