@@ -7,6 +7,7 @@
     "video": [], // Array of names to default-disable video player for
     "rain": [], // Array of names to default-disable rain for
     "imagePad": [], // Array of names to default-disable image pads for
+    "visualizerSync": [], // Array of names to enforce local-only visualizer for
     "pathBased" {
       "Gimmick/Audio Reverb Zone": [], // Array of names to default-disable audio reverb zones for
     } // Object of path-name[] to disable
